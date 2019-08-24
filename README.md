@@ -1,2 +1,2 @@
-# Wbsite
-My Website
+# Thejus
+Personal Website 
