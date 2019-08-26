@@ -4504,3 +4504,29 @@ dl.accordion.time-line:before {
     /* color: #e81919; */
 }
 
+.asif img, .razal img{
+    width: 100%;
+    height: auto;
+    
+    
+}
+.asif, .razal{
+    display: inline-block;
+    box-shadow: 0 0 5px;
+    width: 15%;
+    height: auto;
+    padding: 2px;  
+}
+
+.razal{
+    margin-left: 10%;
+}
+
+.asif a:hover,
+.asif a:active,
+.razal a:hover,
+.razal a:active {
+    box-shadow: 0 0 30px;
+}
+
+
